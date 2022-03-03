@@ -11,5 +11,5 @@ jobs:
         with:
           # 下方的name格式为：Docker Hub ID/自定义镜像名称
           name: cheering/koyeb
-          username: '${{ secrets.cheering }}'
-          password: '${{ secrets.CWong@I01o }}'
+          username: '${{ cheering }}'
+          password: '${{ CWong@I01o }}'
